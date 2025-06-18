@@ -13,9 +13,7 @@
       width: 100px;
       height: 100px;
       position:sticky;
-      
-      
-      
+      top:0%;  
 }
 .bi {
    font-size: 40px;
