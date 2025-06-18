@@ -1,0 +1,18 @@
+ .main-container {
+            margin-left: 20px;
+           
+            padding: 20px;
+        }
+
+        .item1, .item2, .item3, .item4 {
+            width: 500px;
+            margin: 20px;
+            
+            text-align: left; 
+            padding: 10px;
+        }
+
+        img {
+            width: 40%;
+          
+        }
