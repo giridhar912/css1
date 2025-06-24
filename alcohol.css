@@ -1,0 +1,157 @@
+
+.main-container{
+    /* border:2px solid red; */
+    height:400px;
+    width:1000px;
+    padding:20px;
+}
+.child1{
+    display:inline-block;
+    /* border:2px solid black; */
+    height:200px;
+    width:200px;
+    background-color: black;
+    color:white;
+    margin-left: 60px;
+    overflow: hidden;
+    padding:10px;
+    top:0%;
+    margin:0%
+
+}
+  /* .scroll{
+     /* width:450px;
+    height: 450px; */
+    /* overflow:scroll;
+    scrollbar-width:none;
+    color:white; 
+}  */ 
+  p{
+    opacity:0;
+  }
+img{
+    width: 200px;
+    height: 200px;;
+    display:block;
+}
+.child1:hover p{
+    opacity: 1;
+    display:block;
+    transition-duration: 3s;
+}
+ .child1:hover img{
+    display:none;
+    
+}
+
+ .child1:hover{
+   transition: all 1s ease;
+
+ }
+
+.child2{
+    display: inline-block;
+    /* border:2px solid black; */
+    height:200px;
+    width:200px;
+    margin-left: 50px;
+    background-color: green;
+    color:white;
+    overflow: hidden;
+    padding:10px;
+    top:0%;
+    margin:0%
+}
+p{
+    opacity:0;
+    align-items: center;
+  }
+img{
+    width: 200px;
+    height: 200px;;
+    display:block;
+}
+.child2:hover p{
+    opacity: 1;
+    display:block;
+    transition-duration: 3s;
+}
+ .child2:hover img{
+    display:none;
+    
+}
+
+ .child2:hover{
+   transition: all 1s ease;
+
+ }
+.child3{
+    display: inline-block;
+    /* border:2px solid black; */
+    height:200px;
+    width:200px;
+    margin-left: 50px;
+    background-color:red;
+    color:white;
+    overflow: hidden;
+    padding:10px;
+    top:0%;
+    margin:0%
+}
+p{
+    opacity:0;
+  }
+img{
+    width: 200px;
+    height: 200px;;
+    display:block;
+}
+.child3:hover p{
+    opacity: 1;
+    display:block;
+    transition-duration: 3s;
+}
+ .child3:hover img{
+    display:none;
+    
+}
+
+ .child3:hover{
+   transition: all 1s ease;
+
+ }
+.child4{
+    display: inline-block;
+    /* border:2px solid black; */
+    height:200px;
+    width:200px;
+    margin-left: 50px;
+    background-color: blue;
+    color:white;
+    overflow: hidden;
+    padding:10px;
+    top:0%;
+    margin:0%
+}
+p{
+    opacity:0;
+  }
+img{
+    width: 200px;
+    height: 200px;;
+    display:block;
+}
+.child4:hover p{
+    opacity: 1;
+    display:block;
+    transition-duration: 3s;
+}
+ .child4:hover img{
+    display:none;
+    
+}
+
+ .child4:hover{
+   transition: all 1s ease;
+
+ }
